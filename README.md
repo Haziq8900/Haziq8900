@@ -22,10 +22,9 @@
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pixel-art-tube-light.gif" height="20" width="100%">
 
-<img width="300" alt="metrics" align="right" src="https://raw.githubusercontent.com/Haziq8900/Haziq8900/main/github-metrics.svg">
-<img width="300" alt="isocalendar" src="https://raw.githubusercontent.com/Haziq8900/Haziq8900/main/metrics.plugin.isocalendar.fullyear.svg">
-
-> *Note: the two metrics widgets above only render once the `metrics` GitHub Action workflow is set up on a repo named exactly `Haziq8900` (your profile repo). Happy to help you set that up if you don't have it yet.*
+<p align="center">
+  <img width="480" alt="metrics" src="https://raw.githubusercontent.com/Haziq8900/Haziq8900/main/github-metrics.svg">
+</p>
 
 <br>
 
@@ -52,6 +51,17 @@
 <br>
 
 ## 📊 GitHub Stats
+
+<!--
+  NOTE: These cards use the public shared github-readme-stats.vercel.app service,
+  which is frequently rate-limited or down since thousands of profiles use it.
+  If a card shows a broken image icon, it's almost always this shared service, not your setup.
+
+  Fix: deploy your own free copy at https://github.com/anuraghazra/github-readme-stats
+  (click "Deploy to Vercel" in that repo's README), then replace
+  "github-readme-stats.vercel.app" below with your own deployed URL, e.g.
+  "github-readme-stats-haziq8900.vercel.app"
+-->
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Haziq8900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
