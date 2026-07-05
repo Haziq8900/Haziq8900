@@ -101,11 +101,10 @@
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@                                                      @@
-@@   "Code doesn't fail. It just tells you            @@
-@@    exactly where you were wrong."                  @@
+@@   "Code doesn't fail. It just tells you              @@
+@@    exactly where you were wrong."                    @@
 @@                                                      @@
 @@   Currently: Software Engineering @ QUEST Nawabshah  @@
-@@   Interning: Alkhidmat Foundation Pakistan (2026)     @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
