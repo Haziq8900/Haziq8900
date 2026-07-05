@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Haziq8900">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Haziq!;Software%20Engineering%20Student;Backend%20Dev%20%7C%20Java%20%26%20C%2FC%2B%2B;Alkhidmat%20Summer%20Intern%202026&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Haziq!;Software%20Engineering%20Student;Backend%20Dev%20%7C%20Java%20%26%20C%2FC%2B%2B&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
     </a>
 </p>
 
