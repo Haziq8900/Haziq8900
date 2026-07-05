@@ -78,25 +78,6 @@
 
 <hr>
 
-## 📌 Pinned Projects
-
-<p align="left">
-  <a href="https://github.com/Haziq8900/Department-Management-System">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Department-Management-System&theme=tokyonight&hide_border=true">
-  </a>
-  <a href="https://github.com/Haziq8900/Bank-Management-System">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Bank-Management-System&theme=tokyonight&hide_border=true">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Haziq8900?tab=repositories">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20All%20My%20Repositories-1F222E?style=for-the-badge&logoColor=e8df7a&logo=repo"/>
-  </a>
-</p>
-
-<hr>
-
 ## ★ Certificates & Achievements
 
 - 🏅 **[Google AI Essentials — Specialization (5 Courses)](https://coursera.org/verify/specialization/2XG00PDGKEQQ)** — Coursera, issued Oct 2025
